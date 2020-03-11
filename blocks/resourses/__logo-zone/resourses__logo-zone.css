@@ -2,4 +2,6 @@
     width: 1100px;
     align-items: center;
     margin-top: 56px;
-    }
+    list-style: none;
+    display: flex;
+}

@@ -2,7 +2,6 @@
 @import url(./__title/feinman__title.css);
 @import url(./__subtitle/feinman__subtitle.css);
 @import url(./__main-illustration/feinman__main-illustration.css);
-
 .feinman {
     display: flex;
     flex-direction: column;
@@ -10,7 +9,6 @@
     margin-bottom: 0px;
     position: relative;
     height: 790px;
-    background-color: #F2F2F2; 
+    background-color: #F2F2F2;
     z-index: 1;
-
 }
